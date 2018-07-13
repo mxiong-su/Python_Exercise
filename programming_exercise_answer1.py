@@ -54,4 +54,3 @@ def demographic_analysis(input_file_name, output_file_name):
 
 # Execute function with parameters, input file name and output file name
 demographic_analysis('exercise_test_data.csv', 'excercise_output_file10.json')
-
